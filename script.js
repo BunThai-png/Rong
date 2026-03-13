@@ -10,8 +10,8 @@ const messages=[
 
 const photos=[
 
-"picture/pic1 (1).jpg",
-"picture/pic1 (2).jpg"
+"pic1 (1).jpg",
+"pic1 (2).jpg"
 
 ];
 
@@ -73,5 +73,6 @@ music.src="";
 start.style.display="flex";
 
 },48000);
+
 
 };
